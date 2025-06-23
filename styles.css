@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+.postcard{
+    width:70%;
+    max-width: 500px;
+    margin: auto;
+    background-color: white;
+    padding: 10px;
+}
+
+.titulo{
+    width: 70%;
+}
+.logotipo{
+margin-left: 60px;
+}
+
+
+header, .cuerpo{
+  display: flex;
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+
+}
+
+.carta{
+ width: 90%;
+}
+.pregunta{
+  width: 95%;
+  margin: 5px auto;
+}
+input{
+    border: none;
+    border-bottom: 2px solid gray;
+    text-align: left;
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+
+}
+button{
+    display: block;
+    margin: auto;
+    margin-bottom: 50px;
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    border: none;
+    background-color: lightslategray;
+    padding: 1%;
+}
